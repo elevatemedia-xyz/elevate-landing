@@ -239,7 +239,7 @@ const WhatWeDoSection: React.FC = () => {
                         <h2 className="font-[Montserrat] text-[32px] max-md:text-[28px] max-sm:text-[32px] font-bold tracking-[autopx] leading-[120%] max-lg:leading-[120%] max-md:leading-[150%] max-sm:leading-[120%] text-text-dark" >
                             Additional Offerings
                         </h2>
-                        <ul className="flex flex-col justify-center items-start list-disc bg-cover bg-center gap-2 w-[70%] max-lg:w-full">
+                        <ul className="flex flex-col justify-center items-start list-disc bg-cover bg-center gap-2 w-full">
                             <li className="font-[Montserrat] text-[20px] max-md:text-base max-sm:text-base font-normal tracking-[autopx] leading-[160%] max-md:leading-[24px] max-sm:leading-[20px] w-full" >
                                 Cost-Effective Shipping Solutions for eCommerce stores.
                             </li>

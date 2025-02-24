@@ -7,7 +7,7 @@ const HeroSection: React.FC = () => {
         <section className='w-full min-h-screen py-44 flex flex-col items-center justify-center gap-12 bg-black'>
             <div className="flex flex-col justify-start items-center bg-cover bg-center relative left-[0%] z-[1] top-[0%] gap-[24px] max-sm:gap-[16px] 2xl:min-w-[1280px]">
                 <h1 className="text-3xl sm:text-5xl md:text-[9vh] font-[Montserrat] text-primary font-black  max-md:tracking-[autopx] leading-[105%] max-lg:leading-[100%] max-md:leading-[100%] max-sm:leading-[120%] text-text-dark text-center w-[65%] max-lg:w-[90%]">
-                    Unlock Your Brand’s Full Potential
+                    Unlock Your Business&apos;s Full Potential
                 </h1>
                 <h2 className="font-[Montserrat] text-primary font-normal text-[24px] max-md:text-[24px] max-sm:text-[14px] tracking-[autopx] leading-[140%] max-lg:leading-[140%] text-center w-[50%] max-lg:w-[90%] max-md:w-full max-sm:w-full border-white text-black">
                     Your success, our strategy.

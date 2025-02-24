@@ -41,13 +41,13 @@ const Footer: React.FC = () => {
                     </Link>
                 </nav>
                 <div className="flex flex-row gap-[16px]">
-                    <Link href="https://www.facebook.com/share/1MEvJhgQHr/?mibextid=wwXIfr" target='_blank'>
+                    {/* <Link href="https://www.facebook.com/share/1MEvJhgQHr/?mibextid=wwXIfr" target='_blank'>
                         <div className="p-[8px] bg-primary rounded-full flex items-center justify-center">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                                 <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z" />
                             </svg>
                         </div>
-                    </Link>
+                    </Link> */}
                     <Link href="https://www.instagram.com/elev8temedia" target='_blank'>
                         <div className="p-[8px] bg-primary rounded-full flex items-center justify-center">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
